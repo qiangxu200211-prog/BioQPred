@@ -1,0 +1,75 @@
+{
+  "seed": 42,
+  "dev_ratio": 0.1,
+  "test": "official test retained in original order",
+  "tasks": {
+    "splice_sites_all": {
+      "train": {
+        "rows": 27000,
+        "sha256": "7c43da391f09c4aa2bc0bd52c83ec0142e51ffb62fce1d19cae7fd7da780396d",
+        "bytes": 22280872
+      },
+      "dev": {
+        "rows": 3000,
+        "sha256": "97111a6692b488ba40689be863067c9be9340939af5b44c12be3f9010b4fa8e3",
+        "bytes": 2460798
+      },
+      "test": {
+        "rows": 3000,
+        "sha256": "788aef4ddc582d344225b7443c3517a318ee6a69ef89d8b7348ebd4a2590730f",
+        "bytes": 2457780
+      }
+    },
+    "splice_sites_acceptor": {
+      "train": {
+        "rows": 27000,
+        "sha256": "a20d7de435cdcfd889ed59136622ef8d8d40ad36f595e954e2a49487cf3d1288",
+        "bytes": 22685849
+      },
+      "dev": {
+        "rows": 3000,
+        "sha256": "c11d5dbd171b5f55daf6e9bad2a82bbaca06230e08182adcdca24c494a3a2b3a",
+        "bytes": 2505821
+      },
+      "test": {
+        "rows": 3000,
+        "sha256": "fb0bb68d6da9a7dba04becc0ca47732dc4e3916d7c80cc214d19dace6e1358ee",
+        "bytes": 2502780
+      }
+    },
+    "splice_sites_donor": {
+      "train": {
+        "rows": 27000,
+        "sha256": "5f936eedb8dee2dedfc84c60decf07858d49b0032893c752b08a61cdc14fde34",
+        "bytes": 22442844
+      },
+      "dev": {
+        "rows": 3000,
+        "sha256": "722ec5341a526a7d7b2126a0ae620e7a810da8cc0f7a4e1fd85901fe1dc26214",
+        "bytes": 2478826
+      },
+      "test": {
+        "rows": 3000,
+        "sha256": "fb10d100a6b050c9eb795df96d8c36f80b158cd4630fb60cbb9a4f5be32bd3fe",
+        "bytes": 2475780
+      }
+    },
+    "H3K27me3": {
+      "train": {
+        "rows": 27000,
+        "sha256": "1d9ef64f517f1ffac79f2879abaa197c31c29edadd5f8e17110f27cf321ef215",
+        "bytes": 32459857
+      },
+      "dev": {
+        "rows": 3000,
+        "sha256": "ddb1c15c99adb8bd5fd1d580b529b7a859d332b1666efde2e25d5d3d277e6cad",
+        "bytes": 3591813
+      },
+      "test": {
+        "rows": 3000,
+        "sha256": "d1353217eb0c64d5315a7dc69e4688e450050574c6db7bef509dc42eb48876d9",
+        "bytes": 3588780
+      }
+    }
+  }
+}

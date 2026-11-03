@@ -1,0 +1,62 @@
+{
+  "repository": "InstaDeepAI/nucleotide_transformer_downstream_tasks_revised",
+  "revision": "851f9946252e90c665cdb3cc3eedb78f1f26197c",
+  "files": [
+    {
+      "task": "splice_sites_all",
+      "split": "train",
+      "upstream_path": "splice_sites_all/train.fna",
+      "sha256": "6975c373ae320ac20945f9b2d8514db7a3b76006575f5b5f6bc45e221f9d1798",
+      "bytes": 19106927
+    },
+    {
+      "task": "splice_sites_all",
+      "split": "test",
+      "upstream_path": "splice_sites_all/test.fna",
+      "sha256": "d5c265af411a85c46024375626f564ecd49b4bdb5579bb1959fc6ab12e16343d",
+      "bytes": 1910158
+    },
+    {
+      "task": "splice_sites_acceptor",
+      "split": "train",
+      "upstream_path": "splice_sites_acceptors/train.fna",
+      "sha256": "a409e4cafabe749382fe9747d112ad7fc942303f2b31ef7c6202de9cbfda476f",
+      "bytes": 19106602
+    },
+    {
+      "task": "splice_sites_acceptor",
+      "split": "test",
+      "upstream_path": "splice_sites_acceptors/test.fna",
+      "sha256": "c41c5cf9554d12936ff77ee1c883cefc4c24a21d26da16cc68cde234b74e330e",
+      "bytes": 1910160
+    },
+    {
+      "task": "splice_sites_donor",
+      "split": "train",
+      "upstream_path": "splice_sites_donors/train.fna",
+      "sha256": "e7b287bae75abccc76071edd0cece24bd1c6a070fdf9573a710b5c67ed005127",
+      "bytes": 19106790
+    },
+    {
+      "task": "splice_sites_donor",
+      "split": "test",
+      "upstream_path": "splice_sites_donors/test.fna",
+      "sha256": "da98f68f1bec2dadc8a2002965da6b3cdd7a357e5856fd22ee91a164bf2eb74d",
+      "bytes": 1910160
+    },
+    {
+      "task": "H3K27me3",
+      "split": "train",
+      "upstream_path": "H3K27me3/train.fna",
+      "sha256": "ee49fc3717894a8a116655a7113d006dccb7f1b63e7967d156fbb207f8f7cfef",
+      "bytes": 31315255
+    },
+    {
+      "task": "H3K27me3",
+      "split": "test",
+      "upstream_path": "H3K27me3/test.fna",
+      "sha256": "2a8f41cee708872bf91019ede255f5e866cb5e6b0a8d9db7cbf59edbf093508c",
+      "bytes": 3131458
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Versions observed in the scientific execution environment, Python 3.9.23.
+# Install the appropriate PyTorch CUDA/CPU wheel for your machine first.
+torch==2.8.0
+numpy==1.26.4
+scikit-learn==1.6.1
+scipy==1.13.1
+transformers==4.56.2
+tokenizers==0.22.2
+huggingface-hub==0.36.2
+safetensors==0.6.2
+einops==0.8.2
+tqdm==4.67.1

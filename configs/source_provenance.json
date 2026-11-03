@@ -1,0 +1,161 @@
+{
+  "note": "Hashes of actual executed scientific files; no host addresses or private paths retained",
+  "files": [
+    {
+      "path": "models/dnabert2/bert_layers.py",
+      "executed_sha256": "5e48a9b2c8d8cd2127f7b5b627c09acb21dda32fba9bff8a44b27714d6bbc945",
+      "release_sha256": "5e48a9b2c8d8cd2127f7b5b627c09acb21dda32fba9bff8a44b27714d6bbc945",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/bert_padding.py",
+      "executed_sha256": "44d1c68afb1f585fdc66c150d4c60f1ed44a89c006abc57d50531d71940d7421",
+      "release_sha256": "44d1c68afb1f585fdc66c150d4c60f1ed44a89c006abc57d50531d71940d7421",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/config.json",
+      "executed_sha256": "0d38a19d0c0ec3276016b4db82cb03550de30b44a3d1ecf9606c32afd093cc5c",
+      "release_sha256": "0d38a19d0c0ec3276016b4db82cb03550de30b44a3d1ecf9606c32afd093cc5c",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/configuration_bert.py",
+      "executed_sha256": "95fc868641b87bbcd7a32d2cd7b9f4769c27592e129daf167d14b5b8c74ec4c5",
+      "release_sha256": "95fc868641b87bbcd7a32d2cd7b9f4769c27592e129daf167d14b5b8c74ec4c5",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/special_tokens_map.json",
+      "executed_sha256": "3c3507f36dff57bce437223db3b3081d1e2b52ec3e56ee55438193ecb2c94dd6",
+      "release_sha256": "3c3507f36dff57bce437223db3b3081d1e2b52ec3e56ee55438193ecb2c94dd6",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/tokenizer.json",
+      "executed_sha256": "a642815d61bee153ff7e043a01849137776605e542779674d554331b4e7ab253",
+      "release_sha256": "a642815d61bee153ff7e043a01849137776605e542779674d554331b4e7ab253",
+      "modification": "none"
+    },
+    {
+      "path": "models/dnabert2/tokenizer_config.json",
+      "executed_sha256": "a8f8a70fd32caa6610a6d39ab2a67301f6174eb5ae0d64042d85b5380e7c9cfb",
+      "release_sha256": "a8f8a70fd32caa6610a6d39ab2a67301f6174eb5ae0d64042d85b5380e7c9cfb",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/efficiency_measurement_v1.py",
+      "executed_sha256": "8fa577e0d76024ff3607f08b9adb2b3fdeb1c97891ade2ba477e844b389c8dda",
+      "release_sha256": "8fa577e0d76024ff3607f08b9adb2b3fdeb1c97891ade2ba477e844b389c8dda",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/fair_baseline_models.py",
+      "executed_sha256": "347589a6207f61e754bd8db58424db062c96bb3138571fd8c51afe7dd86b0a73",
+      "release_sha256": "347589a6207f61e754bd8db58424db062c96bb3138571fd8c51afe7dd86b0a73",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/map_genomic_controls.py",
+      "executed_sha256": "0d8a4f3f25a05399f30a2cbe8478fb8c15275dda94ef205caed1b25680278310",
+      "release_sha256": "0d8a4f3f25a05399f30a2cbe8478fb8c15275dda94ef205caed1b25680278310",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/openspliceai_candidate.py",
+      "executed_sha256": "df44c551e5cec42aed36218ba0a54ee99bb4847e9619282a12eea1c53ffc0e17",
+      "release_sha256": "df44c551e5cec42aed36218ba0a54ee99bb4847e9619282a12eea1c53ffc0e17",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/rebuild_prediction_pfms.py",
+      "executed_sha256": "cdce28d49cba20cd5f650cf58c34c32355e71de7bbb3126912695aa5b2b1138d",
+      "release_sha256": "cdce28d49cba20cd5f650cf58c34c32355e71de7bbb3126912695aa5b2b1138d",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_controlled_experiments.py",
+      "executed_sha256": "228d8737081410cbc233749b280a3bfd3d0050c6877928142077eeb4f8db3dc8",
+      "release_sha256": "228d8737081410cbc233749b280a3bfd3d0050c6877928142077eeb4f8db3dc8",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_fair_baselines.py",
+      "executed_sha256": "9e5dec92f8993017b7e1e1f69fd7e18a2e42350ccca9aaaa839f04e51c300969",
+      "release_sha256": "9e5dec92f8993017b7e1e1f69fd7e18a2e42350ccca9aaaa839f04e51c300969",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_full_branch_masking.py",
+      "executed_sha256": "a84dcf7d680022a9f3f032b11e98d91a498899421c82466f5978bbef2ebbe4d3",
+      "release_sha256": "a84dcf7d680022a9f3f032b11e98d91a498899421c82466f5978bbef2ebbe4d3",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_neugse_matched.py",
+      "executed_sha256": "5ffb8bf720ce1ea7aa79554258093917a9847380e4408a83b14a537c8abc9576",
+      "release_sha256": "92ee275bb5f84a2ae7b03a07cdaa95ffcdb61a4b61ac073de2d45d57715c838e",
+      "modification": "Management-only import redirected to standalone read-only helpers; scientific code unchanged"
+    },
+    {
+      "path": "revision_20261022/run_openspliceai_matched.py",
+      "executed_sha256": "37954f66dd66a99009c6887ba6015199f7e225eb9baadffc336b536028879155",
+      "release_sha256": "37954f66dd66a99009c6887ba6015199f7e225eb9baadffc336b536028879155",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_spliceai_reference.py",
+      "executed_sha256": "39a033e0b3346bf8f1d8287077e6efd9aee245a6a020c1ffe178ee22c8171bac",
+      "release_sha256": "39a033e0b3346bf8f1d8287077e6efd9aee245a6a020c1ffe178ee22c8171bac",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/run_teacher_ablation.py",
+      "executed_sha256": "a8c0bf7ac4d533c8e18110ef4bd0ed5d6e153096717ee5e080aad8f9549744fa",
+      "release_sha256": "a8c0bf7ac4d533c8e18110ef4bd0ed5d6e153096717ee5e080aad8f9549744fa",
+      "modification": "none"
+    },
+    {
+      "path": "revision_20261022/verify_pinned_nt.py",
+      "executed_sha256": "d074a4e3576e65ef7903654d3467922087bfc407303b57256ddb736bef14200d",
+      "release_sha256": "d074a4e3576e65ef7903654d3467922087bfc407303b57256ddb736bef14200d",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/baseline_dnabert2_camp_style.py",
+      "executed_sha256": "da7e6607e30e6711952ea17c4cb4363065bda72bf1d3cd34ecbea4b6a48ca830",
+      "release_sha256": "da7e6607e30e6711952ea17c4cb4363065bda72bf1d3cd34ecbea4b6a48ca830",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/baseline_neugse_style.py",
+      "executed_sha256": "79cc9e12d916f13d22962cd12a4b2ae77d80eb7c035a7bc8569e3c9e47b10bcd",
+      "release_sha256": "79cc9e12d916f13d22962cd12a4b2ae77d80eb7c035a7bc8569e3c9e47b10bcd",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/baseline_tfbs_finder_style.py",
+      "executed_sha256": "22967529b0ff0ef597ac49b9cf1528567660f656777e86f1ab120c6a4217bfe5",
+      "release_sha256": "22967529b0ff0ef597ac49b9cf1528567660f656777e86f1ab120c6a4217bfe5",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/bioqpred_v2.py",
+      "executed_sha256": "c1d9004d17d5642e55d91f1bb8595f8e89bcf1e4831e3f580760ea3be3152d20",
+      "release_sha256": "c1d9004d17d5642e55d91f1bb8595f8e89bcf1e4831e3f580760ea3be3152d20",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/cnn_baseline.py",
+      "executed_sha256": "1d8ab9c5e2904fcfcdab42b14762957769747576635f0ad25f576c92308b417a",
+      "release_sha256": "1d8ab9c5e2904fcfcdab42b14762957769747576635f0ad25f576c92308b417a",
+      "modification": "none"
+    },
+    {
+      "path": "src/models/dnabert2_classifier.py",
+      "executed_sha256": "e9f6771c09d8d791aea80aaf245dabec54c5f5ef92e73e945cf53f3d278e101f",
+      "release_sha256": "e9f6771c09d8d791aea80aaf245dabec54c5f5ef92e73e945cf53f3d278e101f",
+      "modification": "none"
+    }
+  ]
+}

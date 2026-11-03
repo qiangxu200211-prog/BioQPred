@@ -1,0 +1,3 @@
+# Preserve exact scientific source bytes and their recorded SHA256 hashes.
+# Do not normalize CRLF/LF when committing or checking out this release.
+* -text
